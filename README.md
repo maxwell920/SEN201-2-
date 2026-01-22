@@ -10,11 +10,6 @@ The program outputs “Hello, World” to demonstrate basic Python syntax and fa
 ## File Description
 - `hello.py` – A Python script that prints “Hello, World” when executed.
 
-## How to Run
-Ensure Python is installed, then run:
-```bash
-python hello.py
-
 
 
 ## SOFTWARE DEVELOPMENT LIFE CYCLE (SDLC)
@@ -41,3 +36,13 @@ The program was executed in a Python environment to verify that it runs without 
 
 ### Stage 5: Release and Submission  
 The completed script was uploaded to a public GitHub repository, making it available for assessment and fulfilling the submission requirements for the SEN 201 task.
+
+
+
+## How to Run
+Ensure Python is installed, then run:
+```bash
+python hello.py
+
+
+
